@@ -12,7 +12,7 @@ public class SpringIn5StepsApplication {
 	//where to search for beans
 	
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		//BinarySearchImpl binarySearch = new BinarySearchImpl(new QuickSortAlgorithm());
 		//Application Context
 		
